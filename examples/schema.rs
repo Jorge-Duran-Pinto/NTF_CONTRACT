@@ -1,3 +1,4 @@
+/*
 use std::env::current_dir;
 use std::fs::create_dir_all;
 
@@ -17,4 +18,9 @@ fn main() {
     export_schema(&schema_for!(QueryMsg), &out_dir);
     export_schema(&schema_for!(State), &out_dir);
     export_schema(&schema_for!(CountResponse), &out_dir);
+}
+*/
+
+fn main() {
+    
 }
